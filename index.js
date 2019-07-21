@@ -31,14 +31,3 @@ function sayHiToGrandma(string){
       return 'I love you, too.';
     }
 }
-/*function sayHiToGrandma(string) {
-  if(string === "I love you, Grandma."){
-    if(string.toLowerCase()=== lowercase){
-      if(string.toUpperCase() === uppercase){
-        return "YES INDEED!"
-      }
-      return "I can\'t hear you!";
-    }
-      return "I love you, too.";
-  }
-}*/
